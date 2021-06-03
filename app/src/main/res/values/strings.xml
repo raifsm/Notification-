@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificationsApp</string>
+    <drawable name="ic_brightness" />
+</resources>
